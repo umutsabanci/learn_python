@@ -1,1 +1,0 @@
-# literal --> değişmez değer, (sabit)
